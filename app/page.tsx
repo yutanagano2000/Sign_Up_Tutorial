@@ -1,5 +1,4 @@
 "use client";
-import * as React from 'react';
 import {CssVarsProvider} from '@mui/joy/styles';
 import {Input, Sheet} from '@mui/joy';
 import Typography from '@mui/joy/Typography';
